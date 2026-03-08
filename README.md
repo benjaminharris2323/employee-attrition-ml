@@ -46,7 +46,9 @@ employee-attrition-ml/
 
 ## Capstone Presentation
 
-[![Watch the presentation](https://img.youtube.com/vi/NRoAxx89qDg/0.jpg)](https://youtu.be/NRoAxx89qDg)
+Watch the full project walkthrough:
+
+https://youtu.be/NRoAxx89qDg
 
 ## Running the Project
 Install dependencies:
@@ -68,5 +70,6 @@ This repository contains the final project code and supporting materials. The no
 Ben Harris  
 M.S. Business Analytics – University of Cincinnati  
 Data Science | Machine Learning | Healthcare & Business Analytics
+
 
 
