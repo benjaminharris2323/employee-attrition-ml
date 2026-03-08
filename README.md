@@ -37,10 +37,11 @@ Key findings included:
 ## Files
 ```text
 employee-attrition-ml/
-├── attrition_model.py
+├── employee_attrition_model.ipynb
+├── WA_Fn-UseC_-HR-Employee-Attrition.csv
+├── capstone_abstract.docx
 ├── README.md
-├── requirements.txt
-└── capstone_abstract.pdf
+└── requirements.txt
 ```
 
 ## Capstone Presentation
@@ -67,4 +68,5 @@ This repository contains the final project code and supporting materials. The no
 ## Author
 Ben Harris  
 M.S. Business Analytics – University of Cincinnati  
+
 Data Science | Machine Learning | Healthcare & Business Analytics
